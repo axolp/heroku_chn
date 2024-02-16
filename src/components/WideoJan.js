@@ -92,11 +92,10 @@ const DeleteCharacterDivs=()=> {
 
   
 
-
   return (
     <div>
       <video ref={videoRef} width="750" controls>
-        <source src="videos/patriotyzm.mp4" type="video/mp4" />
+        <source src="https://www.youtube.com/watch?v=n8J0t7oKHTQ" type="video/mp4" />
         Przepraszamy, Twoja przeglądarka nie obsługuje osadzonych wideo.
       </video>
       <div ref={lyricsDivRef}>
